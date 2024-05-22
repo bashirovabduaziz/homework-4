@@ -29,7 +29,7 @@ const Header = () => {
     setIsLanguageDropdownOpen(true);
   };
 
-  const handleLanguageMouseLeave = () => {
+  const handleLanuageMouseLeave = () => {
     closeTimeoutRef.current = setTimeout(() => {
       setIsLanguageDropdownOpen(false);
     }, 400);

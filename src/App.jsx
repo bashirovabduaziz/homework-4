@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "./components/sections/Hero";
 import Section1 from "./components/sections/Section1";
 import Header from "./components/header/Header";
-import HorizontalAccordion from "./components/sections/HorizontalAccor";
+import HorizontalAccordion from "./components/sections/HorizontaAccor";
 
 const App = () => {
   return (
